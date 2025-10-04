@@ -1,9 +1,7 @@
 # 🔬 NCKH - BPA and Entropy Research
 ### Mô hình xác định BPA và xử lý xung đột bằng Adaboost & Entropy Niềm Tin
 
-**Tác giả:** Nguyễn Thị Thanh Thảo, Ngô Đình Cảnh, Lê Văn Quang, Nguyễn Năng Anh, Trần Duy Tuấn  
-**Giảng viên hướng dẫn:** TS. Nguyễn Văn Thẩm  
-**Trường:** Đại học Thủy Lợi  
+**Tác giả:** Nguyễn Thị Thanh Thảo và đồng sự 
 **Ngôn ngữ:** Python (Jupyter Notebook)
 
 ---
@@ -76,19 +74,6 @@ Mục tiêu chính:
 
 ---
 
-## 📂 Cấu trúc thư mục
-
-```
-.
-├── Main.ipynb                 # Notebook chính (toàn bộ quy trình)
-├── data/                      # Dữ liệu thí nghiệm (nếu có)
-├── results/                   # Hình ảnh, bảng kết quả, biểu đồ
-├── requirements.txt            # Danh sách thư viện cần cài
-└── README.md                   # Tài liệu hướng dẫn này
-```
-
----
-
 ## 🧱 Cài đặt và chạy
 
 ### 1️⃣ Cài đặt môi trường
@@ -132,7 +117,6 @@ jupyter notebook Main.ipynb
 ## 💬 Liên hệ
 
 Nếu bạn muốn đóng góp, cải thiện hoặc sử dụng mô hình trong nghiên cứu khác, vui lòng tạo **issue** hoặc **pull request** tại repository.  
-📧 Liên hệ: *(thêm email hoặc GitHub của bạn nếu muốn)*
 
 ---
 
