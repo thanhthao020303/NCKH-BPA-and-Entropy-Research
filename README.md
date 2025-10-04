@@ -1,7 +1,7 @@
 # 🔬 NCKH - BPA and Entropy Research
 ### Mô hình xác định BPA và xử lý xung đột bằng Adaboost & Entropy Niềm Tin
 
-**Tác giả:** Nguyễn Thị Thanh Thảo và đồng sự 
+**Tác giả:** Nguyễn Thị Thanh Thảo và đồng sự.
 **Ngôn ngữ:** Python (Jupyter Notebook)
 
 ---
